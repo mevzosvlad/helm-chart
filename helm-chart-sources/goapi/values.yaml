@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: mevzosvlad/addressbook:1.0.0
+  repository: mevzosvlad/addressbook
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
