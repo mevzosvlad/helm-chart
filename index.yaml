@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   goapi:
   - apiVersion: v2
+    appVersion: 1.0.1
+    created: "2021-01-15T12:04:57.105347+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 426ccd671d400f206e6839855441db9ec1dc69af4f49b2fb4e3a84ad89a30eb1
+    name: goapi
+    type: application
+    urls:
+    - https://mevzosvlad.github.io/helm-chart/goapi-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-01-15T11:12:35.292851+01:00"
+    created: "2021-01-15T12:04:57.104422+01:00"
     description: A Helm chart for Kubernetes
     digest: 66a9910acbe24de1b6d7914368d70321eedbfb9a783abceb98d366437e0445b0
     name: goapi
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://mevzosvlad.github.io/helm-chart/goapi-0.1.1.tgz
     version: 0.1.1
-generated: "2021-01-15T11:12:35.292314+01:00"
+generated: "2021-01-15T12:04:57.100455+01:00"
